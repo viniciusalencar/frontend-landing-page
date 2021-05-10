@@ -82,11 +82,11 @@ exports[`<GridTwoColumns /> should render two columns grid 1`] = `
           >
             Gridt Two Columns
           </h2>
-          <p
+          <div
             class="c6"
           >
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa animi quae autem officia molestiae aspernatur consectetur nam architecto ratione! Odio optio inventore veniam consequuntur, sed neque. Fugiat totam voluptatibus minima?
-          </p>
+          </div>
         </div>
         <div
           class=""
